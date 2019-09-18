@@ -3,7 +3,7 @@ This repository is created for the Deep Learning course which has been held in K
 
 You can find the vidoes of the course in the following youtube channel:
 
-https://www.youtube.com/channel/UCEf5EXeme8mxmKxZ2UvJ5GQ
+https://www.youtube.com/playlist?list=PL2g_5adpoaeJfYvFr3qwxETRnICyc5BmS
 
 The code and material of this repository belong to introduction course.
 
