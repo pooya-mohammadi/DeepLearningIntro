@@ -8,5 +8,7 @@ https://www.youtube.com/channel/UCEf5EXeme8mxmKxZ2UvJ5GQ
 The code and material of this repository belong to introduction course.
 
 I'm Pooya Mohammadi and you can contact me from one of the following ways:
+
 telegram id: @Pooya_Mohammadi_K
+
 email: pooya209@ymail.com
